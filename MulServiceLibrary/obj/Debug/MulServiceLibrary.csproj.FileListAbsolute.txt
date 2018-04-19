@@ -1,0 +1,5 @@
+c:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MulServiceLibrary\bin\Debug\MulServiceLibrary.dll.config
+c:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MulServiceLibrary\bin\Debug\MulServiceLibrary.dll
+c:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MulServiceLibrary\bin\Debug\MulServiceLibrary.pdb
+c:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MulServiceLibrary\obj\Debug\MulServiceLibrary.dll
+c:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MulServiceLibrary\obj\Debug\MulServiceLibrary.pdb

@@ -1,0 +1,10 @@
+C:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MyWindowsService\bin\Debug\MyWindowsService.exe.config
+C:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MyWindowsService\bin\Debug\MyWindowsService.exe
+C:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MyWindowsService\bin\Debug\MyWindowsService.pdb
+C:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MyWindowsService\bin\Debug\MulServiceLibrary.dll
+C:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MyWindowsService\bin\Debug\MulServiceLibrary.pdb
+C:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MyWindowsService\obj\Debug\MyWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MyWindowsService\obj\Debug\MyWindowsService.exe
+C:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MyWindowsService\obj\Debug\MyWindowsService.pdb
+C:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MyWindowsService\obj\Debug\MyWindowsService.ProjectInstaller.resources
+C:\Users\mallikarjun\documents\visual studio 2015\Projects\WCF1demo\MyWindowsService\obj\Debug\MyWindowsService.csproj.GenerateResource.Cache

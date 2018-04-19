@@ -1,0 +1,8 @@
+C:\Users\mallikarjun\Documents\Visual Studio 2015\Projects\WCF1demo\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+C:\Users\mallikarjun\Documents\Visual Studio 2015\Projects\WCF1demo\ConsoleHost\bin\Debug\ConsoleHost.exe
+C:\Users\mallikarjun\Documents\Visual Studio 2015\Projects\WCF1demo\ConsoleHost\bin\Debug\ConsoleHost.pdb
+C:\Users\mallikarjun\Documents\Visual Studio 2015\Projects\WCF1demo\ConsoleHost\bin\Debug\MulServiceLibrary.dll
+C:\Users\mallikarjun\Documents\Visual Studio 2015\Projects\WCF1demo\ConsoleHost\bin\Debug\MulServiceLibrary.pdb
+C:\Users\mallikarjun\Documents\Visual Studio 2015\Projects\WCF1demo\ConsoleHost\obj\Debug\ConsoleHost.csprojResolveAssemblyReference.cache
+C:\Users\mallikarjun\Documents\Visual Studio 2015\Projects\WCF1demo\ConsoleHost\obj\Debug\ConsoleHost.exe
+C:\Users\mallikarjun\Documents\Visual Studio 2015\Projects\WCF1demo\ConsoleHost\obj\Debug\ConsoleHost.pdb
