@@ -14,7 +14,7 @@ namespace MyClient
         {
             MulServiceClient client = new MulServiceClient("BasicHttpBinding_IMulService");
 
-            lbl1.InnerText = client.Mul(1, 2).ToString();
+            lblmsg.InnerText = client.Mul(1, 2).ToString();
         }
     }
 }
