@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <label id="lblmsg" runat="server"></label>
+    <label id="lblmsgv1" runat="server"></label>
     </div>
     </form>
 </body>
